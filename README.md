@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
 <h3 align="center">Undergraduate Computer and Engineering | Web development Inter @BA-ICT</h3>
+<img align='right' alt="coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13644062/media/26f54111a547f0310118dc9004f99d8b.gif">
 
 - 🌱 I’m currently learning **Backend development , Machine Learning**
 
