@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
-<h3 align="center">Undergraduate Computer and Engineering | Ex-Web development Intern @BA-ICT | AU-Robotics Vice CTO</h3>
+<h3 align="center">Undergraduate Computer and Engineering | Backend Engineer @ Quriv LLC|Ex-Web development Intern @BA-ICT </h3>
 
 - 🌱 I’m currently learning **Backend development , Machine Learning**
-- 📫 How to reach me **es-tamimsherif2025@alexu.edu.eg**
+- 📫 How to reach me **tamim.sherif@outlook.com**
 
 
 
