@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
 <h3 align="center">Fresh Grad Computer Engineer | Backend Engineer @ Quriv LLC </h3>
 
-- 🌱 I’m currently learning **Backend development , Machine Learning**
 - 📫 How to reach me **tamim.sherif@outlook.com**
 
 
