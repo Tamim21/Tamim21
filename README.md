@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamim</h1>
-<h3 align="center">Fresh Grad Computer Engineer | Backend Engineer @ Quriv LLC </h3>
+<h3 align="center">Fresh Grad Computer Engineer | Fintech enthusiast | Backend Engineer @ Quriv LLC </h3>
 
 - 📫 How to reach me **tamim.sherif@outlook.com**
 
